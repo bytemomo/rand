@@ -1,9 +1,10 @@
 *
 
-!.gitignore
-
 !README.md
+
 !.justfile
+!.gitignore
+!.clang-format
 
 !windows/
 !windows/um/

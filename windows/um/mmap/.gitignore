@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+
+!protector.cpp
+!ac_payload.cpp
+!compile.bat
